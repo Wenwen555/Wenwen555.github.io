@@ -6,36 +6,7 @@
     <description>Recent content on Awesome Hugo blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>中文</language>
-    <lastBuildDate>Tue, 29 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://Wenwen555.github.io/zh-cn/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Papers</title>
-      <link>https://Wenwen555.github.io/zh-cn/posts/%E6%8B%93%E6%89%91%E5%AD%A6/</link>
-      <pubDate>Tue, 29 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://Wenwen555.github.io/zh-cn/posts/%E6%8B%93%E6%89%91%E5%AD%A6/</guid>
-      
-      <description>&lt;blockquote&gt;
-&lt;p&gt;[!NOTE]&lt;/p&gt;
-&lt;p&gt;This page is used to store the papers that hasn&amp;rsquo;t been finished and the finished one.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2 id=&#34;reading&#34;&gt;Reading&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;KAN&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Kolmogorov-Arnold Networks, the interesting view is the learning of activation function, which archive the thought of &lt;strong&gt;Learning every parameters of neural network&lt;/strong&gt;. And it reveal the route to the symbolism.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://arxiv.org/abs/2404.19756&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Adagrad&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;A detailed view to the creation of optimizer, a foundation for the subsequent optimizers.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.jmlr.org/papers/volume12/duchi11a/duchi11a.pdf&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2 id=&#34;finished&#34;&gt;Finished&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;CA-TCC&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Using contrastive learning technique and well-designed tasks for better representation learning in the paradigm of Unsupervised Learning.&lt;/p&gt;</description>
-      
-    </item>
-    
+    <lastBuildDate>Sun, 27 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://Wenwen555.github.io/zh-cn/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>偏微分方程</title>
       <link>https://Wenwen555.github.io/zh-cn/posts/%E5%81%8F%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B/</link>
