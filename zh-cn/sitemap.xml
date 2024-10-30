@@ -50,6 +50,16 @@
                 />
   </url><url>
     <loc>https://Wenwen555.github.io/zh-cn/pages/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="English"
+                href="https://Wenwen555.github.io/pages/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="中文"
+                href="https://Wenwen555.github.io/zh-cn/pages/"
+                />
   </url><url>
     <loc>https://Wenwen555.github.io/zh-cn/tags/</loc>
     <xhtml:link
@@ -64,5 +74,15 @@
                 />
   </url><url>
     <loc>https://Wenwen555.github.io/zh-cn/pages/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="English"
+                href="https://Wenwen555.github.io/pages/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="中文"
+                href="https://Wenwen555.github.io/zh-cn/pages/about/"
+                />
   </url>
 </urlset>

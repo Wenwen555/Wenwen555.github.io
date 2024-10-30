@@ -34,6 +34,20 @@
     <loc>https://Wenwen555.github.io/posts/introduction/</loc>
     <lastmod>2024-10-27T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://Wenwen555.github.io/pages/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="中文"
+                href="https://Wenwen555.github.io/zh-cn/pages/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="English"
+                href="https://Wenwen555.github.io/pages/about/"
+                />
+  </url><url>
+    <loc>https://Wenwen555.github.io/pages/archive/</loc>
+  </url><url>
     <loc>https://Wenwen555.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -44,6 +58,18 @@
                 rel="alternate"
                 hreflang="English"
                 href="https://Wenwen555.github.io/categories/"
+                />
+  </url><url>
+    <loc>https://Wenwen555.github.io/pages/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="中文"
+                href="https://Wenwen555.github.io/zh-cn/pages/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="English"
+                href="https://Wenwen555.github.io/pages/"
                 />
   </url><url>
     <loc>https://Wenwen555.github.io/tags/</loc>
