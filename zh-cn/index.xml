@@ -6,7 +6,19 @@
     <description>Recent content on Awesome Hugo blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>中文</language>
-    <lastBuildDate>Wed, 30 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://Wenwen555.github.io/zh-cn/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 31 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://Wenwen555.github.io/zh-cn/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>存档页</title>
+      <link>https://Wenwen555.github.io/zh-cn/pages/archive/</link>
+      <pubDate>Thu, 31 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://Wenwen555.github.io/zh-cn/pages/archive/</guid>
+      
+      <description>&lt;h2 id=&#34;这是一个存档页&#34;&gt;这是一个存档页！&lt;/h2&gt;
+&lt;p&gt;存放一些笔记等非博客类型内容！&lt;/p&gt;</description>
+      
+    </item>
+    
     <item>
       <title>拓扑学笔记</title>
       <link>https://Wenwen555.github.io/zh-cn/posts/%E6%8B%93%E6%89%91%E5%AD%A6/</link>
@@ -38,14 +50,10 @@ $$&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;Date: Oct 31 2024&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;今天讲了Zarisiki拓扑，这是一个建立在交换环上的素理想集合的拓扑空间. 我们下面先给出几个简单的定义.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;[!IMPORTANT]&lt;/p&gt;
-&lt;p&gt;$Definition: \text{我们把一个交换环}R\text{上的所有素理想集合记为这个环的谱：}Spectrum(R).$&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;$Definition:我们把一个交换环R上的所有素理想集合记为这个环的谱：Spectrum(R).$&lt;/p&gt;
 &lt;p&gt;具体内容请查阅：&lt;a href=&#34;https://math.mit.edu/~jhirsh/notes2_zariski.pdf&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;下面从例子出发，给出&lt;strong&gt;一点化紧致&lt;/strong&gt;里挖掘出来的性质/知识.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;我们考虑一个非紧致Hausdroff拓扑空间$\displaystyle (\mathcal{X} ,\tau )$，为其添加一个点$\displaystyle{\ohm}$，组成集合$\displaystyle X^{&lt;em&gt;}$，构造$\displaystyle X^{&lt;/em&gt;}$的拓扑为$\displaystyle \tau ^{&lt;em&gt;} =\tau \cup X^{&lt;/em&gt;} \cup {X\backslash K|K\ is\ compact\ subset\ of\ \mathcal{X}}$.&lt;/p&gt;</description>
+&lt;p&gt;我们考虑一个非紧致Hausdroff拓扑空间$\displaystyle (\mathcal{X} ,\tau )$，为其添加一个点$\ohm$，组成集合$\displaystyle X^{&lt;em&gt;}$，构造$\displaystyle X^{&lt;/em&gt;}$的拓扑为$\displaystyle \tau ^{&lt;em&gt;} =\tau \cup X^{&lt;/em&gt;} \cup {X\backslash K|K\ is\ compact\ subset\ of\ \mathcal{X}}$.&lt;/p&gt;</description>
       
     </item>
     

@@ -5,7 +5,20 @@
     <link>https://Wenwen555.github.io/zh-cn/pages/</link>
     <description>Recent content in Pages on Awesome Hugo blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>中文</language><atom:link href="https://Wenwen555.github.io/zh-cn/pages/index.xml" rel="self" type="application/rss+xml" />
+    <language>中文</language>
+    <lastBuildDate>Thu, 31 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://Wenwen555.github.io/zh-cn/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>存档页</title>
+      <link>https://Wenwen555.github.io/zh-cn/pages/archive/</link>
+      <pubDate>Thu, 31 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://Wenwen555.github.io/zh-cn/pages/archive/</guid>
+      
+      <description>&lt;h2 id=&#34;这是一个存档页&#34;&gt;这是一个存档页！&lt;/h2&gt;
+&lt;p&gt;存放一些笔记等非博客类型内容！&lt;/p&gt;</description>
+      
+    </item>
+    
     <item>
       <title>关于</title>
       <link>https://Wenwen555.github.io/zh-cn/pages/about/</link>

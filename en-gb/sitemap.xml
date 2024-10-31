@@ -47,6 +47,16 @@
                 />
   </url><url>
     <loc>https://Wenwen555.github.io/pages/archive/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="中文"
+                href="https://Wenwen555.github.io/zh-cn/pages/archive/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="English"
+                href="https://Wenwen555.github.io/pages/archive/"
+                />
   </url><url>
     <loc>https://Wenwen555.github.io/categories/</loc>
     <xhtml:link
