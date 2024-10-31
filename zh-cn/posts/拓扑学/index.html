@@ -53,7 +53,7 @@
         },
         "datePublished": "2024-10-30",
         "description": "",
-        "wordCount":  48 ,
+        "wordCount":  136 ,
         "mainEntityOfPage": "True",
         "dateModified": "2024-10-30",
         "image": {
@@ -74,13 +74,20 @@
     <meta property="og:url" content="https://Wenwen555.github.io/zh-cn/posts/%E6%8B%93%E6%89%91%E5%AD%A6/">
   <meta property="og:site_name" content="Awesome Hugo blog">
   <meta property="og:title" content="拓扑学笔记">
-  <meta property="og:description" content="紧性 列紧性 $Definition 1$	对于一个拓扑空间$\displaystyle \mathcal{X}$, 我们称之为列紧,如果其任何序列$\displaystyle {X_{n}}$都有收敛子列 那么要是一个拓扑空间$\displaystyle \mathcal{X}$有一个序列$\displaystyle {X_{n}}_{n=1}^{\infty }$没有收敛子列,则这个序列在$\displaystyle \mathcal{X}$中是一个闭集.
+  <meta property="og:description" content="Date: Oct 29 2024 HW: $\displaystyle P71\ T1,3,5$
+紧性 列紧性 $Definition 1$	对于一个拓扑空间$\displaystyle \mathcal{X}$, 我们称之为列紧,如果其任何序列$\displaystyle {X_{n}}$都有收敛子列 那么要是一个拓扑空间$\displaystyle \mathcal{X}$有一个序列$\displaystyle {X_{n}}_{n=1}^{\infty }$没有收敛子列,则这个序列在$\displaystyle \mathcal{X}$中是一个闭集.
 连通性 连通分支 连通分支是极大的,并且由命题2.24知,$\displaystyle \mathcal{X}$中的一个连通子集$\displaystyle A$只包含在唯一的一个连通分支中. 并且,连通分支是闭集.
 回忆上一节的紧致性,一个拓扑空间的不收敛序列由于不存在聚点,因此也是一个闭集.
 下面需要整理一下闭集的良好性质/定理.
 道路连通 此处的道路定义:一个连续映射. 并不是其像集,但是通常为了直观理解,我们会把它像集作为一个例子来理解. 道路的逆并不是逆映射,而是从另一个端点作为起点,往回走,即 $$ \begin{equation*} \overline{a}( t) =a( 1-t) ,\ \forall t\in I \end{equation*} $$
 $Theorem 1$ 道路连通$\rightarrow$连通性
-Date: Oct 29 2024 HW: $\displaystyle P71\ T1,3,5$">
+Date: Oct 31 2024
+今天讲了Zarisiki拓扑，这是一个建立在交换环上的素理想集合的拓扑空间. 我们下面先给出几个简单的定义.
+[!IMPORTANT]
+$Definition: \text{我们把一个交换环}R\text{上的所有素理想集合记为这个环的谱：}Spectrum(R).$
+具体内容请查阅：Link
+下面从例子出发，给出一点化紧致里挖掘出来的性质/知识.
+我们考虑一个非紧致Hausdroff拓扑空间$\displaystyle (\mathcal{X} ,\tau )$，为其添加一个点$\displaystyle{\ohm}$，组成集合$\displaystyle X^{}$，构造$\displaystyle X^{}$的拓扑为$\displaystyle \tau ^{} =\tau \cup X^{} \cup {X\backslash K|K\ is\ compact\ subset\ of\ \mathcal{X}}$.">
   <meta property="og:locale" content="中文">
   <meta property="og:type" content="article">
     <meta property="article:section" content="posts">
@@ -92,13 +99,20 @@ Date: Oct 29 2024 HW: $\displaystyle P71\ T1,3,5$">
     
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="拓扑学笔记">
-  <meta name="twitter:description" content="紧性 列紧性 $Definition 1$	对于一个拓扑空间$\displaystyle \mathcal{X}$, 我们称之为列紧,如果其任何序列$\displaystyle {X_{n}}$都有收敛子列 那么要是一个拓扑空间$\displaystyle \mathcal{X}$有一个序列$\displaystyle {X_{n}}_{n=1}^{\infty }$没有收敛子列,则这个序列在$\displaystyle \mathcal{X}$中是一个闭集.
+  <meta name="twitter:description" content="Date: Oct 29 2024 HW: $\displaystyle P71\ T1,3,5$
+紧性 列紧性 $Definition 1$	对于一个拓扑空间$\displaystyle \mathcal{X}$, 我们称之为列紧,如果其任何序列$\displaystyle {X_{n}}$都有收敛子列 那么要是一个拓扑空间$\displaystyle \mathcal{X}$有一个序列$\displaystyle {X_{n}}_{n=1}^{\infty }$没有收敛子列,则这个序列在$\displaystyle \mathcal{X}$中是一个闭集.
 连通性 连通分支 连通分支是极大的,并且由命题2.24知,$\displaystyle \mathcal{X}$中的一个连通子集$\displaystyle A$只包含在唯一的一个连通分支中. 并且,连通分支是闭集.
 回忆上一节的紧致性,一个拓扑空间的不收敛序列由于不存在聚点,因此也是一个闭集.
 下面需要整理一下闭集的良好性质/定理.
 道路连通 此处的道路定义:一个连续映射. 并不是其像集,但是通常为了直观理解,我们会把它像集作为一个例子来理解. 道路的逆并不是逆映射,而是从另一个端点作为起点,往回走,即 $$ \begin{equation*} \overline{a}( t) =a( 1-t) ,\ \forall t\in I \end{equation*} $$
 $Theorem 1$ 道路连通$\rightarrow$连通性
-Date: Oct 29 2024 HW: $\displaystyle P71\ T1,3,5$">
+Date: Oct 31 2024
+今天讲了Zarisiki拓扑，这是一个建立在交换环上的素理想集合的拓扑空间. 我们下面先给出几个简单的定义.
+[!IMPORTANT]
+$Definition: \text{我们把一个交换环}R\text{上的所有素理想集合记为这个环的谱：}Spectrum(R).$
+具体内容请查阅：Link
+下面从例子出发，给出一点化紧致里挖掘出来的性质/知识.
+我们考虑一个非紧致Hausdroff拓扑空间$\displaystyle (\mathcal{X} ,\tau )$，为其添加一个点$\displaystyle{\ohm}$，组成集合$\displaystyle X^{}$，构造$\displaystyle X^{}$的拓扑为$\displaystyle \tau ^{} =\tau \cup X^{} \cup {X\backslash K|K\ is\ compact\ subset\ of\ \mathcal{X}}$.">
 
 
     
@@ -248,7 +262,9 @@ stroke-linejoin="round" class="feather feather-home">
 </nav>
     </details>
             <div class="page-content">
-                <h2 id="紧性">紧性</h2>
+                <p><strong>Date: Oct 29 2024</strong>
+<strong>HW:</strong> $\displaystyle P71\ T1,3,5$</p>
+<h2 id="紧性">紧性</h2>
 <h3 id="列紧性">列紧性</h3>
 <p>$Definition 1$	对于一个拓扑空间$\displaystyle \mathcal{X}$, 我们称之为列紧,如果其任何序列$\displaystyle {X_{n}}$都有收敛子列
 那么要是一个拓扑空间$\displaystyle \mathcal{X}$有一个序列$\displaystyle {X_{n}}_{n=1}^{\infty }$没有收敛子列,则这个序列在$\displaystyle \mathcal{X}$中是一个闭集.</p>
@@ -267,9 +283,22 @@ $$
 \end{equation*}
 $$</p>
 <p>$Theorem 1$ 道路连通$\rightarrow$连通性</p>
-<p><strong>Date: Oct 29 2024</strong>
-<strong>HW:</strong> $\displaystyle P71\ T1,3,5$</p>
 <hr>
+<p><strong>Date: Oct 31 2024</strong></p>
+<p>今天讲了Zarisiki拓扑，这是一个建立在交换环上的素理想集合的拓扑空间. 我们下面先给出几个简单的定义.</p>
+<blockquote>
+<p>[!IMPORTANT]</p>
+<p>$Definition: \text{我们把一个交换环}R\text{上的所有素理想集合记为这个环的谱：}Spectrum(R).$</p>
+</blockquote>
+<p>具体内容请查阅：<a href="https://math.mit.edu/~jhirsh/notes2_zariski.pdf">Link</a></p>
+<p>下面从例子出发，给出<strong>一点化紧致</strong>里挖掘出来的性质/知识.</p>
+<blockquote>
+<p>我们考虑一个非紧致Hausdroff拓扑空间$\displaystyle (\mathcal{X} ,\tau )$，为其添加一个点$\displaystyle{\ohm}$，组成集合$\displaystyle X^{<em>}$，构造$\displaystyle X^{</em>}$的拓扑为$\displaystyle \tau ^{<em>} =\tau \cup X^{</em>} \cup {X\backslash K|K\ is\ compact\ subset\ of\ \mathcal{X}}$.</p>
+</blockquote>
+<p>在证明$\displaystyle \tau ^{<em>}$是$\displaystyle X^{</em>}$的拓扑的过程中，我们利用到了一个性质：紧致集的交集若是一个闭集（可以从Hausdroff的紧致子集是闭集来考虑），那么紧致集的交集是紧致的.
+解释：不妨设紧致集为$\displaystyle {V_{\alpha }}$，则在Hausdroff空间它们是闭集，那么$\displaystyle \bigcap <em>{\alpha } V</em>{\alpha }$也是一个闭集. 则$\displaystyle X\backslash \bigcap <em>{\alpha } V</em>{\alpha }$是一个开集，对于紧致集$\displaystyle V_{\alpha <em>{0}}$的一个开覆盖$\displaystyle {U</em>{\beta }} \cup \left( X\backslash \bigcap <em>{\alpha } V</em>{\alpha }\right)$，存在有限个开覆盖$\displaystyle {U_{\beta <em>{i}}}</em>{i=1}^{m} \cup \left( X\backslash \bigcap <em>{\alpha } V</em>{\alpha }\right)$覆盖$\displaystyle V_{\alpha <em>{0}}$，那么$\displaystyle {U</em>{\beta <em>{i}}}</em>{i=1}^{m}$是$\displaystyle \bigcap <em>{\alpha } V</em>{\alpha }$的一个有限开覆盖，得证.</p>
+<p>同时在证明$\displaystyle \left( X^{<em>} ,\tau ^{</em>}\right)$的紧致性时，思路抓住了：利用现有的紧致集和开集来构造有限覆盖. 注意此处:一个开集合完全可以视为一个开覆盖中的一员. 那么只需要剩下的集合可以有限开覆盖即可.因此我们将一个大的空间紧致性问题转化为小的空间的紧致性问题.</p>
+<p>同时，从此题中我们还利用了：两个紧致集的并还是紧致的.</p>
 
             </div>
         </article></main>
